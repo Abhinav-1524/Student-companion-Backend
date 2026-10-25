@@ -1,0 +1,19 @@
+{
+  "name": "student-companion-backend-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav-1524/Student-companion-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhinav-1524/Student-companion-Backend/issues"
+  },
+  "homepage": "https://github.com/Abhinav-1524/Student-companion-Backend#readme"
+}
